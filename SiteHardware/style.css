@@ -1,0 +1,269 @@
+*{
+margin: 0;
+}
+body{
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(238, 238, 238);
+}
+
+td{
+    width: 100px;
+}
+
+table{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+
+#linhaum{
+    height: 30px;
+    
+}
+
+#linha2{
+padding: 70px;
+font-size: 150%;
+height: 400px;
+
+background: linear-gradient(to right, 
+                  rgb(23, 55, 83),
+                  rgb(66, 95, 117),
+                  rgba(61, 122, 167, 0.555),
+                  rgb(56, 96, 112));
+
+}
+
+#linha3{
+    height: 30px;   
+}
+
+#linha4{
+    margin: auto;
+    height: 200px;
+    background: linear-gradient(to bottom right,rgba(12, 33, 51, 0.781), rgb(66, 95, 117),rgba(46, 100, 138, 0.568),rgba(18, 58, 73, 0.925));
+}
+
+
+#col{
+    width: 0px;
+    color: rgb(14, 14, 14);
+    text-align: center;
+    
+}
+
+#col2{
+    width: 0px;
+    color: rgb(14, 14, 14);
+    text-align: center;
+    
+    
+}
+
+
+
+img{
+    font-style: italic;
+    font-weight: bold;
+    margin: 100px;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    
+}
+#linhaimg{
+    background: linear-gradient(to right, 
+                  hsl(208, 57%, 21%),
+                  hwb(206 26% 54%),
+                  rgba(46, 100, 138, 0.568),
+                  rgb(56, 96, 112));
+}
+
+#linhaimg{
+    background: linear-gradient(to right, 
+                  rgb(23, 55, 83),
+                  rgb(66, 95, 117),
+                  rgba(46, 100, 138, 0.568),
+                  rgb(56, 96, 112));
+}
+
+
+
+#texto2{
+    font-size: 75%;
+}
+
+.topzada{
+    /* Rectangle 4 */
+
+position: absolute;
+width: 225px;
+height: 71px;
+left: 133px;
+top: 492px;
+
+background: #D9D9D9;
+
+
+/* COMPRE AGORA */
+
+position: absolute;
+width: 230px;
+height: 50px;
+left: 70px;
+top: 440px;
+
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 29px;
+
+color: #122A40;
+
+
+}
+
+
+.rtx{
+    /* visaovip_geforce_rtx_5090_founders_edition_photo_004 (1) 1 */
+
+position: absolute;
+width: 850px;
+height: 700px;
+left: 450px;
+top: -79px;
+border-radius: 41px;
+
+
+
+}
+
+.fundo3doido{
+    /* vecteezy_3d-abstract-holographic-in-the-shape-of-a-flower_44835496 1 */
+
+position: absolute;
+width: 600px;
+height: 560px;
+left: 600px;
+top: -75px;
+
+background: url(vecteezy_3d-abstract-holographic-in-the-shape-of-a-flower_44835496.png);
+
+}
+
+.ad{
+  width: 250px;
+  height: 250px;
+}
+
+#linhaumsn{
+    text-align: center;
+    height: 150px;
+    color: #122A40 ;
+    font-weight: bold;
+    font-size: 170%;
+    
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+  }
+  
+  input[type=text]:focus {
+    border: 3px solid #555;
+  }
+
+  #linhaformulario{
+    height: 50%;
+  }
+
+  #linhaf {
+    text-align: center;
+    height: 150px;
+    color: #122A40 ;
+    
+}
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+  }
+
+  input[type=button], input[type=ENVIAR], input[type=reset] {
+    text-align: center;
+    background-color: #0491aa;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+
+  #linhacontato{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+  }
+  #telefone{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+  }
+
+  #butao{
+  text-align: center;
+  background-color: #3e5972;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin-left: 10px;
+  cursor: pointer;
+  border-radius: 10px;
+  }
+
+  #banner{
+    margin-left: 200px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 10px;
+}
+
+
+#linhabanner{
+    height: 50%;
+}
+
+#fontep{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: x-large;
+    font-weight: 650;
+    text-align: center;
+    color: #122A40;
+
+}
+
+#linhaproduto{
+  
+    text-align: center;
+}
+
+.ad2{
+    width: 150px;
+    height: 150px;
+  }
